@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="NJ3bgN-5DkJXrcVP94Hd">
+    <mxGraphModel dx="1754" dy="978" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3zSJFVQorGx9P8g0m78Q-19" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="37" y="13" width="1037" height="815" as="geometry" />
+        </mxCell>
+        <mxCell id="3zSJFVQorGx9P8g0m78Q-1" value="CAS Main Azure tenant" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Tenant_Properties.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="3zSJFVQorGx9P8g0m78Q-19">
+          <mxGeometry width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3zSJFVQorGx9P8g0m78Q-17" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;glass=0;fillColor=none;" vertex="1" parent="3zSJFVQorGx9P8g0m78Q-19">
+          <mxGeometry x="26" y="27" width="1011" height="788" as="geometry" />
+        </mxCell>
+        <mxCell id="3zSJFVQorGx9P8g0m78Q-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="420" y="352" width="261" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="3zSJFVQorGx9P8g0m78Q-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Connectivity Subnet&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;dashPattern=8 8;glass=0;fillColor=none;" vertex="1" parent="3zSJFVQorGx9P8g0m78Q-20">
+          <mxGeometry x="26.972644376899694" y="23.006762069507783" width="234.0273556231003" height="185.9932379304922" as="geometry" />
+        </mxCell>
+        <mxCell id="3zSJFVQorGx9P8g0m78Q-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;" vertex="1" parent="3zSJFVQorGx9P8g0m78Q-20">
+          <mxGeometry width="53.94528875379939" height="32.30370820668693" as="geometry" />
+        </mxCell>
+        <mxCell id="3zSJFVQorGx9P8g0m78Q-4" value="Azure FW" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="3zSJFVQorGx9P8g0m78Q-20">
+          <mxGeometry x="124.15349544072947" y="81.34533731718822" width="39.66565349544073" height="39.66565349544073" as="geometry" />
+        </mxCell>
+        <mxCell id="3zSJFVQorGx9P8g0m78Q-21" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_Platform.svg;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="61" width="64.92" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="3zSJFVQorGx9P8g0m78Q-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="872" y="91" width="163" height="694" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
